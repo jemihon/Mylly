@@ -1,0 +1,22 @@
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\bin\Debug\PeliNappulaLibrary.dll
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\bin\Debug\PeliNappulaLibrary.pdb
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.csprojResolveAssemblyReference.cache
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\UserControl1.baml
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\UserControl1.g.cs
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary_MarkupCompile.cache
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.g.resources
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.Properties.Resources.resources
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.csproj.GenerateResource.Cache
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.dll
+C:\MyTemp\liittymät\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.pdb
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\bin\Debug\PeliNappulaLibrary.dll
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\bin\Debug\PeliNappulaLibrary.pdb
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.csprojResolveAssemblyReference.cache
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappula.baml
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappula.g.cs
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary_MarkupCompile.cache
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.g.resources
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.Properties.Resources.resources
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.csproj.GenerateResource.Cache
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.dll
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliNappulaLibrary\obj\Debug\PeliNappulaLibrary.pdb

@@ -1,0 +1,11 @@
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\bin\Debug\AboutLibrary.dll
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\bin\Debug\AboutLibrary.pdb
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\obj\Debug\AboutLibrary.csprojResolveAssemblyReference.cache
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\obj\Debug\About.baml
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\obj\Debug\About.g.cs
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\obj\Debug\AboutLibrary_MarkupCompile.cache
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\obj\Debug\AboutLibrary.g.resources
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\obj\Debug\AboutLibrary.Properties.Resources.resources
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\obj\Debug\AboutLibrary.csproj.GenerateResource.Cache
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\obj\Debug\AboutLibrary.dll
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\AboutLibrary\obj\Debug\AboutLibrary.pdb

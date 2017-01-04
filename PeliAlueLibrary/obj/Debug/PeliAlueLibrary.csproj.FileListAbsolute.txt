@@ -1,0 +1,13 @@
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlueLibrary_MarkupCompile.cache
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlueLibrary_MarkupCompile.lref
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\bin\Debug\PeliAlueLibrary.dll
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\bin\Debug\PeliAlueLibrary.pdb
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlueLibrary.g.resources
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlueLibrary.Properties.Resources.resources
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlueLibrary.csproj.GenerateResource.Cache
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlueLibrary.dll
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlueLibrary.pdb
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlue.g.cs
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlue.baml
+C:\MyTemp\liittymät\ht backup\gridcanvas4\gridcanvas\gridcanvas\gridcanvas\PeliAlueLibrary\obj\Debug\PeliAlueLibrary.csprojResolveAssemblyReference.cache

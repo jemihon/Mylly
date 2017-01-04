@@ -1,0 +1,21 @@
+﻿<Window x:Class="SettingsLibrary.Settings"        
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"              
+             mc:Ignorable="d" Height="305" Width="173">
+    <StackPanel Name="grid">
+        <Label Content="Pelaaja 1 nimi"></Label>
+        <TextBox Name="p1Nimi" TextChanged="p1Nimi_TextChanged"></TextBox>
+        <Label Content="Pelaaja 1 väri"></Label>
+        <xctk:ColorPicker Name="colorPickerP1" SelectedColorChanged="colorPickerP1_SelectedColorChanged"/>
+        <Label Content="Pelaaja 2 nimi"></Label>
+        <TextBox Name="p2Nimi" TextChanged="p2Nimi_TextChanged"></TextBox>
+        <Label Content="Pelaaja 2 väri"></Label>
+        <xctk:ColorPicker Name="colorPickerP2" SelectedColorChanged="colorPickerP2_SelectedColorChanged"/>
+        <Button Name="buttonOk" Content="OK" Click="buttonOk_Click"/>
+        <Button Name="buttonCancel" Content="Cancel" Click="buttonCancel_Click"/>
+
+    </StackPanel>
+</Window>

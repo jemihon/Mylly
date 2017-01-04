@@ -1,0 +1,67 @@
+﻿<Window x:Class="mylly.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:oma="clr-namespace:mylly"
+        xmlns:alue="clr-namespace:PeliAlueLibrary;assembly=PeliAlueLibrary"
+        x:Name="ikkuna"
+        Title="MainWindow" Height="382" Width="639" MinHeight="300" MinWidth="300">
+    <Window.CommandBindings>
+        <!-- Tämä komento aloittaa uuden pelin -->
+        <CommandBinding Command="ApplicationCommands.Redo"
+                        Executed="RedoCmdExecuted"/>
+        <!-- Tämän komennon avulla  lisätään uusi nappula-->
+        <CommandBinding Command="ApplicationCommands.New"
+                        CanExecute="NewCmdCanExecute"
+                        Executed="NewCmdExecuted"/>
+        <!-- Komento nappulan siirtämiseen; ei käytössä tässä taso 3-versiossa -->
+        <CommandBinding Command="ApplicationCommands.Open"
+                        Executed="OpenCmdExecuted"/>
+        <!-- Tämän komennon avulla poistetaan nappula -->
+        <CommandBinding Command="ApplicationCommands.Delete"
+                        CanExecute="DeleteCmdCanExecute"
+                        Executed="DeleteCmdExecuted"/>
+        <!-- Komento Settings-dialogin avaamiseen -->
+        <CommandBinding Command="ApplicationCommands.Replace"
+                        Executed="ReplaceCmdExecuted"/>
+    </Window.CommandBindings>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <!-- menupalkin ja sen nappuloiden määrittely -->
+        <Menu HorizontalAlignment="Left" Grid.Row="0" Height="18" VerticalAlignment="Top" Width="{Binding Width, ElementName=ikkuna}">           
+            <MenuItem Header="_File">
+                <MenuItem Header="_New" Command="ApplicationCommands.Redo"/>
+                <MenuItem Header="_Open"/>
+                <MenuItem Header="_Save"/>
+                <MenuItem Header="_Close"/>
+            </MenuItem>
+            <MenuItem Header="_Help">
+                <MenuItem Header="About" Name="menuAbout" Click="menuAbout_Click"/>
+                <MenuItem Header="Help" Name="menuHelp"/>
+            </MenuItem>
+
+            <MenuItem Header="Game">
+                <MenuItem Header="_Insert Piece" Command="ApplicationCommands.New"/>
+                <MenuItem Header="_Move Piece" Command="ApplicationCommands.Open"/>
+                <MenuItem Header="_Remove Piece" Command="ApplicationCommands.Delete"/>
+            </MenuItem>
+            <MenuItem Header="Tools">
+                <MenuItem Header="_Settings" Command="ApplicationCommands.Replace"/>
+            </MenuItem>
+        </Menu>
+        <!-- pelialueen muodostus -->
+        <alue:PeliAlue Name="alue" Grid.Row="1"></alue:PeliAlue>
+        
+        <StackPanel Grid.Row="2" Orientation="Horizontal">
+            <Button Command="ApplicationCommands.New">
+                <Label>_Lisää Nappula</Label>
+            </Button>
+            <Button Command="ApplicationCommands.Delete">
+                <Label>_Poista Nappula</Label>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Window>
